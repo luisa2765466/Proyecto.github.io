@@ -281,6 +281,11 @@ PRODUCTOS */
   
    
 }
+-boton-galeria a{
+    text-decoration: none !important;
+    color: white;
+}
+    
 
 /* FOOTER */
 footer{
