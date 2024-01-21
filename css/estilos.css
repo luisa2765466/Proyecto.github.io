@@ -281,7 +281,7 @@ PRODUCTOS */
   
    
 }
--boton-galeria a{
+.boton-galeria a{
     text-decoration: none !important;
     color: white;
 }
